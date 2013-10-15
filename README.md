@@ -1,4 +1,0 @@
-thoughts.fredericjacobs.com
-===========================
-
-Ghost

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "New home"
+date: 2013-10-15 15:31
+comments: false
+categories:
+- info
+---
+
+I decided to move my blog away from [Medium](https://medium.com). Previous posts will still [be available](https://medium.com/@FredericJacobs).
+
+I want to host my own content and make sure I'm in total control of its distribution.
+
+I'll be blogging here soon.

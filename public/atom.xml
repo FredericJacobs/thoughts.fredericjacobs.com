@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title><![CDATA[Brain Overflow]]></title>
+	<link href="https://thoughts.fredericjacobs.com/atom.xml" rel="self"/>
+	<link href="https://thoughts.fredericjacobs.com/"/>
+	<updated>2013-10-15T15:45:59+02:00</updated>
+	<id>https://thoughts.fredericjacobs.com/</id>
+	<author>
+		<name><![CDATA[Frederic Jacobs]]></name>
+		<email><![CDATA[me@fredericjacobs.com]]></email>
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
+
+	
+	<entry>
+		
+			<title type="html"><![CDATA[New home]]></title>
+		
+		<link href="https://thoughts.fredericjacobs.com/blog/2013/10/15/new-home/"/>
+		<updated>2013-10-15T15:31:00+02:00</updated>
+		<id>https://thoughts.fredericjacobs.com/blog/2013/10/15/new-home</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>I decided to move my blog away from <a href="https://medium.com">Medium</a>. Previous posts will still <a href="https://medium.com/@FredericJacobs">be available</a>.</p>
+
+<p>I want to host my own content and make sure I&rsquo;m in total control of its distribution.</p>
+
+<p>I&rsquo;ll be blogging here soon.</p>
+]]>
+		</content>
+	</entry>
+	
+</feed>
