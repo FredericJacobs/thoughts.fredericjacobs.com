@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title><![CDATA[Brain Overflow]]></title>
-	<link href="https://thoughts.fredericjacobs.com/atom.xml" rel="self"/>
-	<link href="https://thoughts.fredericjacobs.com/"/>
-	<updated>2013-10-16T01:09:41+02:00</updated>
-	<id>https://thoughts.fredericjacobs.com/</id>
-	<author>
-		<name><![CDATA[Frederic Jacobs]]></name>
-		<email><![CDATA[me@fredericjacobs.com]]></email>
-	</author>
-	<generator uri="http://octopress.org/">Octopress</generator>
+  <title><![CDATA[Category: Syria | Brain Overflow]]></title>
+  <link href="https://thoughts.fredericjacobs.com/blog/categories/syria/atom.xml" rel="self"/>
+  <link href="https://thoughts.fredericjacobs.com/"/>
+  <updated>2013-10-16T01:09:41+02:00</updated>
+  <id>https://thoughts.fredericjacobs.com/</id>
+  <author>
+    <name><![CDATA[Frederic Jacobs]]></name>
+    <email><![CDATA[me@fredericjacobs.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-	
-	<entry>
-		
-			<title type="html"><![CDATA[About Homs]]></title>
-		
-		<link href="https://thoughts.fredericjacobs.com/blog/2013/10/16/about-homs/"/>
-		<updated>2013-10-16T01:05:00+02:00</updated>
-		<id>https://thoughts.fredericjacobs.com/blog/2013/10/16/about-homs</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<h2>While reading <a href="http://www.amazon.com/The-Syrian-Rebellion-Fouad-Ajami/dp/0817915044">a book</a> about the Syrian uprising, I stumbled on a part about the brave city of Homs.</h2>
+  
+  <entry>
+    <title type="html"><![CDATA[About Homs]]></title>
+    <link href="https://thoughts.fredericjacobs.com/blog/2013/10/16/about-homs/"/>
+    <updated>2013-10-16T01:05:00+02:00</updated>
+    <id>https://thoughts.fredericjacobs.com/blog/2013/10/16/about-homs</id>
+    <content type="html"><![CDATA[<h2>While reading <a href="http://www.amazon.com/The-Syrian-Rebellion-Fouad-Ajami/dp/0817915044">a book</a> about the Syrian uprising, I stumbled on a part about the brave city of Homs.</h2>
 
 <p>If Hama lent its name—and trauma—to the events of the 1980s, this would be the era of Homs. This city had a high idea of itself as a pious and serious town and the burial place of Khalid bin al-Walid, the conqueror who had defeated the Byzantine Empire. It had supplied the country with three of its presidents and countless members of the political class—cabinet ministers, ambassadors, and more. It was in Homs and the towns in its orbit that the doubts about the efficacy of peaceful protest had crystallized. An expat from Homs, in a posting for Syria Comment on October 18, 2011, rightly dubbed Homs “the capital of the uprising.” The writer, unnamed, provides a brief sketch of the city, its demography, and the changes that it underwent in recent years. It had been an overwhelmingly Sunni city, with a prosperous Christian minority that was approximately 10 percent of the population. An Ottoman census in 1903 listed a population of 51,000 people. (Homs now had 1.5 million inhabitants.) Like other towns in Greater Syria, Homs was led by notables, a cohesive group of merchant and religious families. A handful of these families owned most of the fertile land. The sweeping changes that remade Syria as a whole—the recruitment of the minorities into the armed forces, the rise of an ideologically driven younger generation through the Baath Party and the military—battered Homs and its old order. The notables were undermined, the city’s demography altered. People from the countryside made their presence felt. The geography of the city responded to this influx, Christian newcomers occupied large parts of the Old City, and the Sunnis settled west, north, and east of the Old City walls. The Alawis were now a quarter of the population, huddled together in the southeastern quarter.</p>
 
@@ -95,30 +87,7 @@
 <p>Two days later, the same reporter was in Hama, trailed by “minders” of course. He found a “city of fear and ghosts.” There were snipers in the old Byzantine citadel positioned to fire at will into the streets, and the people the reporter encountered were on edge. They were in no mood for revelations. The governor said the city was at peace—at least 90 percent so. “The key thing we did was spreading the culture of love and cooperation with the people.” Inside the governor’s office there were screens showing closed-circuit TV pictures from around the city, “just in case any further lack of love or cooperation should occur,” the reporter added.</p>
 
 <p>It was like this in Bashar al-Assad’s realm: the alternation of light and darkness, the regime’s Janus-like face to be shown the outside world and the fearsome crackdown. It was in that vein on November 3 that the regime would announce its acceptance of an Arab League initiative to end the fighting as 34 people were struck down by the violence. In Homs, a placard summed up the judgment of the protesters: “The Arab League and the Syrian regime, two sides of the same coin.” The rupture between the regime and the populace was given away by a deed that must have drawn inspiration from Libya, where the people discarded the green flag of Qaddafi for the flag of the monarchy: Syria’s old flag of independence was unfurled for the first time in the outskirts of Damascus. The country was seeking its second independence—and this time from the tyranny within.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[New home]]></title>
-		
-		<link href="https://thoughts.fredericjacobs.com/blog/2013/10/15/new-home/"/>
-		<updated>2013-10-15T15:31:00+02:00</updated>
-		<id>https://thoughts.fredericjacobs.com/blog/2013/10/15/new-home</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>I decided to move my blog away from <a href="https://medium.com">Medium</a>. Previous posts will still <a href="https://medium.com/@FredericJacobs">be available</a>.</p>
-
-<p>I want to host my own content and make sure I&rsquo;m in total control of its distribution.</p>
-
-<p>I&rsquo;ll be blogging here soon.</p>
-]]>
-		</content>
-	</entry>
-	
+]]></content>
+  </entry>
+  
 </feed>
